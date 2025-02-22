@@ -1,0 +1,16 @@
+﻿c
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shell-sort", "shell-sort\shell-sort.csproj", "{1BF0192C-1675-4231-A1C0-1631941FCA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF0192C-1675-4231-A1C0-1631941FCA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF0192C-1675-4231-A1C0-1631941FCA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF0192C-1675-4231-A1C0-1631941FCA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF0192C-1675-4231-A1C0-1631941FCA20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
